@@ -1,3 +1,5 @@
+This is the file change log for the whole package.
+
 ### 1.3.5 - 26/5/2017
 
 Changes:
