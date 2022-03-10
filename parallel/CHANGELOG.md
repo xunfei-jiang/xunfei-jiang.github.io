@@ -1,6 +1,10 @@
 Add a new line from xunfeijiang folder. 
+Add a line from Documents folder.
+
 Add a new line to test commit from Github Desktop.
 This is the file change log for the whole package.
+
+Add a new line.
 
 ### 1.3.5 - 26/5/2017
 
